@@ -45,7 +45,7 @@ Atualmente cursando o [7º] período de [Ciência da Computação] na [Universid
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional focado na identificação de vieses algorítmicos e análise de impactos sociais. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
-| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/) |
+| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto]([./projeto-laboratorio-de-engenharia-reversa/](https://gustavo-matsuo.github.io/velocdrive-car-rental-system/)) |
 | **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
  
 
