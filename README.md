@@ -45,7 +45,7 @@ Atualmente cursando o [7º] período de [Ciência da Computação] na [Universid
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional focado na identificação de vieses algorítmicos e análise de impactos sociais. | [Ver Projeto](./Document.pdf) |
-| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](https://github.com/Gustavo-Matsuo/portfolio-gustavo-da-costa-matsuo/tree/d6ca5516995b53d368056b8020ff4abad95d273e/projeto-laboratorio-de-engenharia-reversa) |
+| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](https://gustavo-matsuo.github.io/portfolio-gustavo-da-costa-matsuo/projeto-laboratorio-de-engenharia-reversa/) |
 | **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](C:\Users\mastu\Desktop\HTML\Markdown_live) |
  
 
