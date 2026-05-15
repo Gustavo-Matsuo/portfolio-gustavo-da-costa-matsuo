@@ -22,7 +22,7 @@ Atualmente cursando o **7º período de Ciência da Computação** na **Universi
 
 ---
 
-## 🛠️ Minhas Ferramentas Favoritas
+## 🛠️ Ferramentas utilizadas
 
 ### 💻 Linguagens e Tecnologias
 
