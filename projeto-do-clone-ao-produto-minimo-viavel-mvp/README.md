@@ -1,55 +1,53 @@
-# Gustavo da Costa Matsuo
-> Estudante de Ciência da Computação.
- 
+# 🧠 Laboratório de Classificação Visual: Ética e Viés em IA
+
+> **Estudo de Visão Computacional sobre Identificação de Estereótipos e Vieses Algorítmicos.**
+> Este projeto integra o portfólio de **Gustavo Matsuo** para a disciplina de Inteligência Artificial.
+
 ---
- 
-### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/gustavomatsuo/))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matsuogustavo04@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/GUSTAVODACOSTAMATSUO/Downloads/Curr%C3%ADculo.Gustavo.pdf)
- 
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Google Teachable Machine](https://img.shields.io/badge/Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IA Ética](https://img.shields.io/badge/IA-Ethics-FF5722?style=for-the-badge&logo=cpu&logoColor=white)
+![Visão Computacional](https://img.shields.io/badge/Computer%20Vision-FFD600?style=for-the-badge&logo=opencv&logoColor=black)
+
 ---
- 
-### 👨‍💻 Sobre
-Atualmente cursando o [7º] período de [Ciência da Computação] na [Universidade Cidade de São Paulo]. Sou interessado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Engenharia de Software.
- 
-* **Habilidades Técnicas:** [Ex: Python, Java, MySQL].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
- 
+
+### 🎯 Objetivo do Laboratório
+
+O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um modelo de classificação visual capaz de distinguir perfis profissionais. [cite_start]O foco central não foi apenas a precisão técnica, mas sim a análise crítica de como a seleção de dados pode automatizar e perpetuar preconceitos. [cite: 21, 22]
+
+* [cite_start]**🔍 Treinamento:** Criação de datasets para "Classe Liderança" e "Classe Operacional". [cite: 2, 8]
+* [cite_start]**⚠️ Análise de Viés:** Identificação de como o sistema associa roupas e padrões a cargos de poder. [cite: 22, 23]
+* [cite_start]**⚖️ Impacto e Ética:** Reflexão sobre as consequências sociais de algoritmos que limitam o aprendizado a estereótipos. [cite: 24, 25]
+
 ---
- 
-### 🛠 Minhas Ferramentas Favoritas
- 
-#### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- 
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
+
+### ✨ Memorial de Impacto e Ética
+
+> **Mecanismo do Viés:**
+> A seleção restrita de dados corrompe a lógica do algoritmo ao limitar o aprendizado a estereótipos visuais. [cite_start]Quando o sistema recebe apenas homens de terno para representar liderança, estabelece uma correlação falsa entre género/vestimenta e competência. [cite: 22, 23]
+
+> **Consequência Social:**
+> O sistema marginaliza indivíduos talentosos que não se encaixam no padrão visual treinado. [cite_start]Para o profissional invisibilizado, essa classificação provoca exclusão socioeconómica e valida injustiças de forma sistemática. [cite: 25, 26, 27]
+
 ---
- 
-### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional focado na identificação de vieses algorítmicos e análise de impactos sociais. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
-| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/) |
-| **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+
+### 🛡️ Ações Mitigadoras Propostas
+
+Para garantir a equidade em sistemas de IA, este projeto propõe:
+
+1.  [cite_start]**Curadoria Diversa:** Garantir que o *dataset* inclua dados que reflitam a pluralidade da sociedade. [cite: 28, 29]
+2.  [cite_start]**Análise Crítica:** Identificação constante de lacunas de representatividade pela equipa de desenvolvimento. [cite: 28, 29]
+3.  [cite_start]**Monitorização Humana:** Comités humanos para monitorizar os resultados e ajustar o modelo contra comportamentos discriminatórios. [cite: 30]
+
+---
+
+### 📂 Conteúdo do Repositório
+
+* **`Document.pdf`**: Memorial técnico completo com a fundamentação ética e os resultados do treinamento do modelo.
+* [cite_start]**Imagens de Treinamento**: Base de dados utilizada para o experimento de visão computacional (20 amostras por classe). [cite: 3, 9]
+
+---
+
+> [cite_start]_"A tecnologia deve ser constantemente auditada para garantir que serve a todos de forma justa, evitando a perpetuação de barreiras históricas."_ [cite: 27, 30]_
