@@ -1,69 +1,158 @@
-🧪 Laboratório de Engenharia Reversa: Markdown Live
+# Gustavo da Costa Matsuo
 
-Projeto de Reconstrução Full-Stack assistida por IA Generativa.
-Este projeto faz parte do portfólio de Gustavo Matsuo para a disciplina de Inteligência Artificial.
+> Estudante de Ciência da Computação.
 
-🛠️ Tecnologias & Ferramentas
+---
 
-🎯 Objetivo do Projeto
+## 📫 Contato & Redes Sociais
 
-O desafio consistiu em reconstruir o aplicativo StackEdit atuando como um Desenvolvedor Full-Stack. O objetivo central foi replicar a interface e as regras de lógica de negócio utilizando exclusivamente a observação externa e a Engenharia de Prompts via Google AI Studio, sem acesso ao código-fonte original.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](SEU_CURRICULO_AQUI)
 
-Análise: Mapeamento visual e funcional da referência.
+---
 
-Configuração: Definição de System Instructions para o Gemini 3.
+## 👨‍💻 Sobre
 
-Validação: Testes iterativos para garantir paridade estética e funcional.
+Atualmente cursando o **7º período de Ciência da Computação** na **Universidade Cidade de São Paulo**. Possuo interesse em desenvolvimento de software, engenharia de sistemas e soluções baseadas em tecnologia, com foco em **Desenvolvimento Backend** e **Engenharia de Software**.
 
-✨ Funcionalidades Implementadas
+- **Habilidades Técnicas:** Python, Java, MySQL, React, Tailwind CSS.
+- **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e resolução de problemas.
+- **Projetos Relevantes:** Desenvolvimento de aplicações Full-Stack, engenharia reversa de interfaces e utilização de IA Generativa para aceleração de processos de desenvolvimento.
 
-⚙️ Motor de Renderização
+---
 
-Real-time Preview: Conversão instantânea de Markdown para HTML conforme a digitação.
+## 🛠️ Minhas Ferramentas Favoritas
 
-GitHub Flavored Markdown: Suporte completo para tabelas, listas de tarefas, blocos de código e links.
+### 💻 Linguagens e Tecnologias
 
-🛠️ Barra de Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-Formatação Contextual: Botões para Negrito, Itálico, Títulos (H1, H2).
+---
 
-Inserção Inteligente: Adiciona tags de formatação ao redor da seleção do cursor.
+# 🧪 Laboratório de Engenharia Reversa: Markdown Live
 
-💾 Persistência e Exportação
+Projeto de reconstrução **Full-Stack assistida por IA Generativa**, desenvolvido para a disciplina de **Inteligência Artificial**.
 
-Auto-save: Armazenamento automático no localStorage do navegador.
+---
 
-Download .md: Geração de arquivo Blob para salvamento local do documento.
+## 🎯 Objetivo do Projeto
 
-Copy HTML: Conversão e cópia do código renderizado para o clipboard.
+O projeto teve como objetivo reconstruir a aplicação **StackEdit** utilizando técnicas de **Engenharia Reversa** e **Prompt Engineering**, sem acesso ao código-fonte original.
 
-🚀 Como Executar
+A proposta consistiu em atuar como um Desenvolvedor Full-Stack, replicando a interface, a experiência do usuário e as regras de negócio exclusivamente através de observação externa e modelagem assistida por IA via **Google AI Studio**.
 
-Clone o repositório:
+### Etapas do Processo
 
-git clone [https://github.com/Gustavo-Matsuo/portfolio-gustavo-da-costa-matsuo.git](https://github.com/Gustavo-Matsuo/portfolio-gustavo-da-costa-matsuo.git)
+- 🔍 **Análise:** Mapeamento visual e funcional detalhado da aplicação de referência.
+- ⚙️ **Configuração:** Definição estratégica de *System Instructions* para o modelo Gemini.
+- ✅ **Validação:** Testes iterativos para garantir paridade estética e funcional.
 
+---
 
-Acesse a pasta:
-Navegue até projeto-laboratorio-de-engenharia-reversa.
+## ✨ Funcionalidades Implementadas
 
-Abra o arquivo:
-Execute o index.html em qualquer navegador moderno.
+### 🚀 Motor de Renderização
 
-🧠 Metodologia (Prompt Engineering)
+- **Real-time Preview:** Conversão instantânea de Markdown para HTML durante a digitação.
+- **GitHub Flavored Markdown:** Suporte completo para:
+  - tabelas
+  - listas de tarefas
+  - blocos de código
+  - links
 
-A estrutura foi gerada através de uma abordagem de IA-Assisted Development:
+### 🏗️ Barra de Ferramentas
 
-Persona: Configuração do modelo para atuar como desenvolvedor sênior.
+- **Formatação Contextual:** Botões rápidos para Negrito, Itálico e Títulos.
+- **Inserção Inteligente:** Manipulação automática do cursor e do texto selecionado.
 
-Modularização: Solicitação de código limpo integrando React e Tailwind via CDN para portabilidade.
+### 💾 Persistência e Exportação
 
-Refinamento: Ajustes finos para garantir que a interface fosse responsiva e seguisse o padrão Dark Mode Slate.
+- **Auto-save:** Persistência automática utilizando `localStorage`.
+- **Download .md:** Exportação dinâmica de arquivos Markdown.
+- **Copy HTML:** Conversão rápida do conteúdo para HTML.
 
-📂 Estrutura de Arquivos
+---
 
-index.html: Arquivo único contendo a estrutura, estilização e lógica do aplicativo.
+## 🧠 Metodologia (Prompt Engineering)
 
-README.md: Documentação técnica do processo de engenharia reversa.
+A arquitetura do software foi desenvolvida utilizando uma abordagem de **IA-Assisted Development**, baseada em:
 
-Este repositório é um exemplo prático de como ferramentas de IA podem acelerar o ciclo de vida de desenvolvimento de software.
+### 1. Persona
+
+Configuração do modelo para atuar como um Desenvolvedor Sênior focado em produtividade e boas práticas.
+
+### 2. Modularização
+
+Estruturação do projeto utilizando:
+
+- React
+- Tailwind CSS via CDN
+- Arquitetura portátil em arquivo único
+
+### 3. Refinamento Estético
+
+Ajustes iterativos para garantir:
+
+- responsividade
+- fidelidade visual
+- padrão Dark Mode Slate
+
+---
+
+## 📂 Estrutura de Arquivos
+
+```bash
+📦 projeto-laboratorio-de-engenharia-reversa
+ ┣ 📜 index.html
+ ┗ 📜 README.md
+```
+
+### Arquivos
+
+- **index.html:** Estrutura completa da aplicação contendo interface, estilização e lógica reativa.
+- **README.md:** Documentação técnica do processo de engenharia reversa.
+
+---
+
+## 💻 Como Executar
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/Gustavo-Matsuo/portfolio-gustavo-da-costa-matsuo.git
+```
+
+### Acesse a pasta do projeto
+
+```bash
+cd projeto-laboratorio-de-engenharia-reversa
+```
+
+### Execute o arquivo principal
+
+Abra o arquivo `index.html` diretamente em seu navegador.
+
+---
+
+## 📌 Considerações Finais
+
+Este projeto demonstra, de forma prática, como o uso estratégico de **LLMs** e técnicas de **Prompt Engineering** podem acelerar significativamente o processo de desenvolvimento, prototipagem e reconstrução de software moderno.
+
+Além do aspecto técnico, o projeto evidencia competências em:
+
+- Engenharia Reversa
+- Desenvolvimento Frontend
+- Desenvolvimento Full-Stack
+- Arquitetura de Interfaces
+- Integração com IA Generativa
+- Organização e documentação técnica
+
+---
