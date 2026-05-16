@@ -15,7 +15,7 @@ Atualmente cursando o [7º] período de [Ciência da Computação] na [Universid
  
 * **Habilidades Técnicas:** Python, Java, MySQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+
  
 ---
  
