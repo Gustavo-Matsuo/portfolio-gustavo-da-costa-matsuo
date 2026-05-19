@@ -15,10 +15,10 @@
 
 ### 🎯 Objetivo do Laboratório
 
-O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um modelo de classificação visual capaz de distinguir perfis profissionais. [cite_start]O foco central não foi apenas a precisão técnica, mas sim a análise crítica de como a seleção de dados pode automatizar e perpetuar preconceitos. [cite: 21, 22]
+O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um modelo de classificação visual capaz de distinguir perfis profissionais. O foco central não foi apenas a precisão técnica, mas sim a análise crítica de como a seleção de dados pode automatizar e perpetuar preconceitos.
 
-**🔍 Treinamento:** Criação de datasets para "Classe Liderança" e "Classe Operacional". [cite: 2, 8]
-**⚠️ Análise de Viés:** Identificação de como o sistema associa roupas e padrões a cargos de poder. [cite: 22, 23]
+**🔍 Treinamento:** Criação de datasets para "Classe Liderança" e "Classe Operacional". 
+**⚠️ Análise de Viés:** Identificação de como o sistema associa roupas e padrões a cargos de poder.
 **⚖️ Impacto e Ética:** Reflexão sobre as consequências sociais de algoritmos que limitam o aprendizado a estereótipos. 
 
 ---
@@ -26,10 +26,10 @@ O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um m
 ### ✨ Memorial de Impacto e Ética
 
 > **Mecanismo do Viés:**
-> A seleção restrita de dados corrompe a lógica do algoritmo ao limitar o aprendizado a estereótipos visuais. [cite_start]Quando o sistema recebe apenas homens de terno para representar liderança, estabelece uma correlação falsa entre género/vestimenta e competência. 
+> A seleção restrita de dados corrompe a lógica do algoritmo ao limitar o aprendizado a estereótipos visuais. Quando o sistema recebe apenas homens de terno para representar liderança, estabelece uma correlação falsa entre género/vestimenta e competência. 
 
 > **Consequência Social:**
-> O sistema marginaliza indivíduos talentosos que não se encaixam no padrão visual treinado. [cite_start]Para o profissional invisibilizado, essa classificação provoca exclusão socioeconómica e valida injustiças de forma sistemática.
+> O sistema marginaliza indivíduos talentosos que não se encaixam no padrão visual treinado. Para o profissional invisibilizado, essa classificação provoca exclusão socioeconómica e valida injustiças de forma sistemática.
 
 ---
 
@@ -37,8 +37,8 @@ O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um m
 
 Para garantir a equidade em sistemas de IA, este projeto propõe:
 
-1.  **Curadoria Diversa:** Garantir que o *dataset* inclua dados que reflitam a pluralidade da sociedade. [cite: 28, 29]
-2.  **Análise Crítica:** Identificação constante de lacunas de representatividade pela equipa de desenvolvimento. [cite: 28, 29]
+1.  **Curadoria Diversa:** Garantir que o *dataset* inclua dados que reflitam a pluralidade da sociedade. 
+2.  **Análise Crítica:** Identificação constante de lacunas de representatividade pela equipa de desenvolvimento. 
 3.  **Monitorização Humana:** Comités humanos para monitorizar os resultados e ajustar o modelo contra comportamentos discriminatórios. 
 
 ---
