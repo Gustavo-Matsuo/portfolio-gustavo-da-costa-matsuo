@@ -17,16 +17,16 @@
 
 O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um modelo de classificação visual capaz de distinguir perfis profissionais. [cite_start]O foco central não foi apenas a precisão técnica, mas sim a análise crítica de como a seleção de dados pode automatizar e perpetuar preconceitos. [cite: 21, 22]
 
-* [cite_start]**🔍 Treinamento:** Criação de datasets para "Classe Liderança" e "Classe Operacional". [cite: 2, 8]
-* [cite_start]**⚠️ Análise de Viés:** Identificação de como o sistema associa roupas e padrões a cargos de poder. [cite: 22, 23]
-* [cite_start]**⚖️ Impacto e Ética:** Reflexão sobre as consequências sociais de algoritmos que limitam o aprendizado a estereótipos. [cite: 24, 25]
+**🔍 Treinamento:** Criação de datasets para "Classe Liderança" e "Classe Operacional". [cite: 2, 8]
+**⚠️ Análise de Viés:** Identificação de como o sistema associa roupas e padrões a cargos de poder. [cite: 22, 23]
+**⚖️ Impacto e Ética:** Reflexão sobre as consequências sociais de algoritmos que limitam o aprendizado a estereótipos. 
 
 ---
 
 ### ✨ Memorial de Impacto e Ética
 
 > **Mecanismo do Viés:**
-> A seleção restrita de dados corrompe a lógica do algoritmo ao limitar o aprendizado a estereótipos visuais. [cite_start]Quando o sistema recebe apenas homens de terno para representar liderança, estabelece uma correlação falsa entre género/vestimenta e competência. [cite: 22, 23]
+> A seleção restrita de dados corrompe a lógica do algoritmo ao limitar o aprendizado a estereótipos visuais. [cite_start]Quando o sistema recebe apenas homens de terno para representar liderança, estabelece uma correlação falsa entre género/vestimenta e competência. 
 
 > **Consequência Social:**
 > O sistema marginaliza indivíduos talentosos que não se encaixam no padrão visual treinado. [cite_start]Para o profissional invisibilizado, essa classificação provoca exclusão socioeconómica e valida injustiças de forma sistemática. [cite: 25, 26, 27]
@@ -37,16 +37,16 @@ O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um m
 
 Para garantir a equidade em sistemas de IA, este projeto propõe:
 
-1.  [cite_start]**Curadoria Diversa:** Garantir que o *dataset* inclua dados que reflitam a pluralidade da sociedade. [cite: 28, 29]
-2.  [cite_start]**Análise Crítica:** Identificação constante de lacunas de representatividade pela equipa de desenvolvimento. [cite: 28, 29]
-3.  [cite_start]**Monitorização Humana:** Comités humanos para monitorizar os resultados e ajustar o modelo contra comportamentos discriminatórios. [cite: 30]
+1.  **Curadoria Diversa:** Garantir que o *dataset* inclua dados que reflitam a pluralidade da sociedade. [cite: 28, 29]
+2.  **Análise Crítica:** Identificação constante de lacunas de representatividade pela equipa de desenvolvimento. [cite: 28, 29]
+3.  **Monitorização Humana:** Comités humanos para monitorizar os resultados e ajustar o modelo contra comportamentos discriminatórios. 
 
 ---
 
 ### 📂 Conteúdo do Repositório
 
 * **`Document.pdf`**: Memorial técnico completo com a fundamentação ética e os resultados do treinamento do modelo.
-* [cite_start]**Imagens de Treinamento**: Base de dados utilizada para o experimento de visão computacional (20 amostras por classe). [cite: 3, 9]
+**Imagens de Treinamento**: Base de dados utilizada para o experimento de visão computacional (20 amostras por classe). 
 
 ---
 
