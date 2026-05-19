@@ -1,24 +1,6 @@
-# Gustavo da Costa Matsuo
+# 🧪 Laboratório de Engenharia Reversa: Markdown Live
 
-> Estudante de Ciência da Computação.
-
----
-
-## 📫 Contato & Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](SEU_CURRICULO_AQUI)
-
----
-
-## 👨‍💻 Sobre
-
-Atualmente cursando o **7º período de Ciência da Computação** na **Universidade Cidade de São Paulo**. Possuo interesse em desenvolvimento de software, engenharia de sistemas e soluções baseadas em tecnologia, com foco em **Desenvolvimento Backend** e **Engenharia de Software**.
-
-- **Habilidades Técnicas:** Python, Java, MySQL, React, Tailwind CSS.
-- **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e resolução de problemas.
-- **Projetos Relevantes:** Desenvolvimento de aplicações Full-Stack, engenharia reversa de interfaces e utilização de IA Generativa para aceleração de processos de desenvolvimento.
+Projeto de reconstrução **Full-Stack assistida por IA Generativa**, desenvolvido para a disciplina de **Inteligência Artificial**.
 
 ---
 
@@ -35,11 +17,6 @@ Atualmente cursando o **7º período de Ciência da Computação** na **Universi
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
-
-# 🧪 Laboratório de Engenharia Reversa: Markdown Live
-
-Projeto de reconstrução **Full-Stack assistida por IA Generativa**, desenvolvido para a disciplina de **Inteligência Artificial**.
 
 ---
 
