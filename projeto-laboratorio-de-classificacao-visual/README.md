@@ -29,7 +29,7 @@ O desafio consistiu em utilizar o **Google Teachable Machine** para treinar um m
 > A seleção restrita de dados corrompe a lógica do algoritmo ao limitar o aprendizado a estereótipos visuais. [cite_start]Quando o sistema recebe apenas homens de terno para representar liderança, estabelece uma correlação falsa entre género/vestimenta e competência. 
 
 > **Consequência Social:**
-> O sistema marginaliza indivíduos talentosos que não se encaixam no padrão visual treinado. [cite_start]Para o profissional invisibilizado, essa classificação provoca exclusão socioeconómica e valida injustiças de forma sistemática. [cite: 25, 26, 27]
+> O sistema marginaliza indivíduos talentosos que não se encaixam no padrão visual treinado. [cite_start]Para o profissional invisibilizado, essa classificação provoca exclusão socioeconómica e valida injustiças de forma sistemática.
 
 ---
 
