@@ -50,4 +50,4 @@ Para garantir a equidade em sistemas de IA, este projeto propõe:
 
 ---
 
-> [cite_start]_"A tecnologia deve ser constantemente auditada para garantir que serve a todos de forma justa, evitando a perpetuação de barreiras históricas."_ [cite: 27, 30]_
+"A tecnologia deve ser constantemente auditada para garantir que serve a todos de forma justa, evitando a perpetuação de barreiras históricas."
